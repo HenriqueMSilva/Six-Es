@@ -8,7 +8,7 @@
 
 # Link for the game -> <a href="https://super-spam-shooting-starguardian-spaceship-simulator.netlify.com/"> super-spam-shooting-starguardian-spaceship-simulator</a>
 
-In this game, all you need to do is win. Ez game, ez life.
+In this game, all you need to do is Win! Easy game, Easy life.
 
 
 ## Help 
@@ -22,6 +22,7 @@ Progress is saved by the use of cookies.
 # Built With
 
 # License
+No Licence
 
 # Acknowledgments
 
